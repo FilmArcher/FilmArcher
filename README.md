@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Damian Lipka
-- 👀 I’m interested in Music, Drum play, games, art, concerts, kitchen :)
+- 👀 I’m interested in Music, Drum play, game design & dev, art, concerts, kitchen :)
 - 🌱 I’m currently learning Unity Programming
 - 💞️ I’m looking to collaborate on music, game design and every createfull things realeted to music and games :D
 - 📫 How to reach me https://play.unity.com/u/FilmArcher
